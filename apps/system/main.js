@@ -16,6 +16,12 @@
             function mysixthFunction() {
                 document.getElementById("hackergame-Tab").style.display = "none";
             }
+            function showTab(app) {
+              document.getElementById(app).style.display = "inline";
+            }
+            function hideTab(app) {
+              document.getElementById(app).style.display = "none";
+            }
             $(switchBackground);
             var oFReader = new FileReader(),
                 rFilter = /^(?:image\/bmp|image\/cis\-cod|image\/gif|image\/ief|image\/jpeg|image\/jpeg|image\/jpeg|image\/pipeg|image\/png|image\/svg\+xml|image\/tiff|image\/x\-cmu\-raster|image\/x\-cmx|image\/x\-icon|image\/x\-portable\-anymap|image\/x\-portable\-bitmap|image\/x\-portable\-graymap|image\/x\-portable\-pixmap|image\/x\-rgb|image\/x\-xbitmap|image\/x\-xpixmap|image\/x\-xwindowdump)$/i;
@@ -47,10 +53,8 @@
                 var today = new Date();
                 var h = today.getHours();
                 var m = today.getMinutes();
-                var s = today.getSeconds();
                 m = checkTime(m);
-                s = checkTime(s);
-                document.getElementById('time-clock').innerHTML = h + ":" + m + ":" + s;
+                document.getElementById('time-clock').innerHTML = h + ":" + m ;
                 var t = setTimeout(startTime, 500);
             }
             function checkTime(i) {
