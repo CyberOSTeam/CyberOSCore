@@ -1,0 +1,140 @@
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans/SharpSans-BookItalic.woff2') format('woff2'),
+        url('SharpSans/SharpSans-BookItalic.woff') format('woff'),
+        url('SharpSans/SharpSans-BookItalic.svg#SharpSans/SharpSans-BookItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans/SharpSans-ThinItalic.woff2') format('woff2'),
+        url('SharpSans/SharpSans-ThinItalic.woff') format('woff'),
+        url('SharpSans/SharpSans-ThinItalic.svg#SharpSans/SharpSans-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans/SharpSans-Thin.woff2') format('woff2'),
+        url('SharpSans/SharpSans-Thin.woff') format('woff'),
+        url('SharpSans/SharpSans-Thin.svg#SharpSans/SharpSans-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans/SharpSans-Light.woff2') format('woff2'),
+        url('SharpSans/SharpSans-Light.woff') format('woff'),
+        url('SharpSans/SharpSans-Light.svg#SharpSans/SharpSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans/SharpSans-Book.woff2') format('woff2'),
+        url('SharpSans/SharpSans-Book.woff') format('woff'),
+        url('SharpSans/SharpSans-Book.svg#SharpSans/SharpSans-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans/SharpSans-LightItalic.woff2') format('woff2'),
+        url('SharpSans/SharpSans-LightItalic.woff') format('woff'),
+        url('SharpSans/SharpSans-LightItalic.svg#SharpSans/SharpSans-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans/SharpSans-ExtraboldItalic.woff2') format('woff2'),
+        url('SharpSans/SharpSans-ExtraboldItalic.woff') format('woff'),
+        url('SharpSans/SharpSans-ExtraboldItalic.svg#SharpSans/SharpSans-ExtraboldItalic') format('svg');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans/SharpSans-Medium.woff2') format('woff2'),
+        url('SharpSans/SharpSans-Medium.woff') format('woff'),
+        url('SharpSans/SharpSans-Medium.svg#SharpSans/SharpSans-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans/SharpSans-MediumItalic.woff2') format('woff2'),
+        url('SharpSans/SharpSans-MediumItalic.woff') format('woff'),
+        url('SharpSans/SharpSans-MediumItalic.svg#SharpSans/SharpSans-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans/SharpSans-Semibold.woff2') format('woff2'),
+        url('SharpSans/SharpSans-Semibold.woff') format('woff'),
+        url('SharpSans/SharpSans-Semibold.svg#SharpSans/SharpSans-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans/SharpSans-SemiboldItalic.woff2') format('woff2'),
+        url('SharpSans/SharpSans-SemiboldItalic.woff') format('woff'),
+        url('SharpSans/SharpSans-SemiboldItalic.svg#SharpSans/SharpSans-SemiboldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans/SharpSans-Bold.woff2') format('woff2'),
+        url('SharpSans/SharpSans-Bold.woff') format('woff'),
+        url('SharpSans/SharpSans-Bold.svg#SharpSans/SharpSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans/SharpSans-BoldItalic.woff2') format('woff2'),
+        url('SharpSans/SharpSans-BoldItalic.woff') format('woff'),
+        url('SharpSans/SharpSans-BoldItalic.svg#SharpSans/SharpSans-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans/SharpSans-Extrabold.woff2') format('woff2'),
+        url('SharpSans/SharpSans-Extrabold.woff') format('woff'),
+        url('SharpSans/SharpSans-Extrabold.svg#SharpSans/SharpSans-Extrabold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+

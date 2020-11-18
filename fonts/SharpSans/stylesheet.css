@@ -1,0 +1,140 @@
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans-BookItalic.woff2') format('woff2'),
+        url('SharpSans-BookItalic.woff') format('woff'),
+        url('SharpSans-BookItalic.svg#SharpSans-BookItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans-ThinItalic.woff2') format('woff2'),
+        url('SharpSans-ThinItalic.woff') format('woff'),
+        url('SharpSans-ThinItalic.svg#SharpSans-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans-Thin.woff2') format('woff2'),
+        url('SharpSans-Thin.woff') format('woff'),
+        url('SharpSans-Thin.svg#SharpSans-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans-Light.woff2') format('woff2'),
+        url('SharpSans-Light.woff') format('woff'),
+        url('SharpSans-Light.svg#SharpSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans-Book.woff2') format('woff2'),
+        url('SharpSans-Book.woff') format('woff'),
+        url('SharpSans-Book.svg#SharpSans-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans-LightItalic.woff2') format('woff2'),
+        url('SharpSans-LightItalic.woff') format('woff'),
+        url('SharpSans-LightItalic.svg#SharpSans-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans-ExtraboldItalic.woff2') format('woff2'),
+        url('SharpSans-ExtraboldItalic.woff') format('woff'),
+        url('SharpSans-ExtraboldItalic.svg#SharpSans-ExtraboldItalic') format('svg');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans-Medium.woff2') format('woff2'),
+        url('SharpSans-Medium.woff') format('woff'),
+        url('SharpSans-Medium.svg#SharpSans-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans-MediumItalic.woff2') format('woff2'),
+        url('SharpSans-MediumItalic.woff') format('woff'),
+        url('SharpSans-MediumItalic.svg#SharpSans-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans-Semibold.woff2') format('woff2'),
+        url('SharpSans-Semibold.woff') format('woff'),
+        url('SharpSans-Semibold.svg#SharpSans-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans-SemiboldItalic.woff2') format('woff2'),
+        url('SharpSans-SemiboldItalic.woff') format('woff'),
+        url('SharpSans-SemiboldItalic.svg#SharpSans-SemiboldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans-Bold.woff2') format('woff2'),
+        url('SharpSans-Bold.woff') format('woff'),
+        url('SharpSans-Bold.svg#SharpSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans-BoldItalic.woff2') format('woff2'),
+        url('SharpSans-BoldItalic.woff') format('woff'),
+        url('SharpSans-BoldItalic.svg#SharpSans-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    src: url('SharpSans-Extrabold.woff2') format('woff2'),
+        url('SharpSans-Extrabold.woff') format('woff'),
+        url('SharpSans-Extrabold.svg#SharpSans-Extrabold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
